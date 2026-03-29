@@ -1,11 +1,11 @@
-# xiao-data-scientist
+# xiao-as-data-scientist
 
 Claude Code setup for data science workflows.
 
 ## Setup
 
 1. Clone this repo
-2. Open it in Claude Code: `cd xiao-data-scientist && claude`
+2. Open it in Claude Code: `cd xiao-as-data-scientist && claude`
 
 ## Custom Commands
 
