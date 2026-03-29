@@ -11,9 +11,11 @@ Claude Code setup for data science workflows.
 
 | Command | Description |
 |---------|-------------|
-| `/eda` | Exploratory data analysis on a dataset |
-| `/clean` | Clean and preprocess a dataset |
-| `/profile` | Generate a detailed data profile report |
+| `/data-eda` | Exploratory data analysis: profile columns, check correlations, plot distributions |
+| `/data-preprocessing` | Clean and preprocess a dataset: handle missing values, duplicates, types, outliers |
+| `/analysis-experiment` | Analyze A/B experiments: compare metrics, check randomization balance |
+| `/analysis-funnel` | Analyze funnel conversion: stage rates, drop-off visualization, segmentation |
+| `/summary-slides` | Generate a PowerPoint summary of analysis findings via python-pptx |
 
 ## Structure
 
